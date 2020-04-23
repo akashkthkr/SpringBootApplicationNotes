@@ -1,0 +1,4 @@
+com/practice/sample/controller/NoteController.class
+com/practice/sample/model/Note.class
+com/practice/sample/SampleApplication.class
+com/practice/sample/repository/NoteRepository.class
